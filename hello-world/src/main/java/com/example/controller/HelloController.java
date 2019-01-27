@@ -8,6 +8,7 @@ public class HelloController {
 	
 	@RequestMapping("/greeting")
 	public String sayHello() {
+		//This code needs to be installed in the cluster
 		return "Hello World";
 	}
 
