@@ -1,5 +1,6 @@
 FROM openjdk:8-alpine
 
+#move to the jar folder from target
 
 ARG APPLICATION_DIR=/opt/software/hello-world
 ARG JAR_FILE
