@@ -10,3 +10,5 @@ spec:
     image: dvadivelu1981/k8s-demo
     ports:
     - containerPort: 3000
+
+    
